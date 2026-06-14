@@ -1,26 +1,23 @@
 # 🚀 Hi, I'm Sang (smtdfc)
 
-### Full-stack Developer 
+### A full-stack developer from Viet Nam
 
+- 🌱 I'm currently learning **Golang and Rust**
+- 📫 How to reach me **me.smtdfc@gmail.com**
+- ⚡ Fun fact **I'm a Full-stack dev, which means I can break the entire application from both ends. Also, please don't ask me to fix bugs at 2 AM—my brain has a strict "no-code" policy after midnight.*
 ---
 
-### 🧐 Professional Overview
+### Tech Stack:
 
-* 🌱 **Currently Learning:** Deepening expertise in **React** and Modern Frontend Architectures.
-* ⚡ **Fun Fact:** I'm a Full-stack dev, which means I can break the entire application from both ends. Also, please don't ask me to fix bugs at 2 AM—my brain has a strict "no-code" policy after midnight.
-* 👨‍💻 **Portfolio:** [smtdfc.is-a.dev](https://smtdfc.is-a.dev)
-* 📫 **Contact:** [me.smtdfc@gmail.com](mailto:me.smtdfc@gmail.com)
-
----
-
-### 🛠 Technical Skills
-
-| Category | Tools & Technologies |
+| Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Backend & DevOps** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| **Development Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| **Languages** | <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus"><img src="https://skillicons.dev/icons?i=cpp" width="25" height="25"/></a> <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" width="25" height="25"/></a> <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" width="25" height="25"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="https://skillicons.dev/icons?i=js" width="25" height="25"/></a> <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" width="25" height="25"/></a> <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" width="25" height="25"/></a> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="25" height="25"/></a> <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="25" height="25"/></a> <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="25" height="25"/></a> |
+| **Frontend** | <a href="https://babeljs.io/"><img src="https://skillicons.dev/icons?i=babel" width="25" height="25"/></a> <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="25" height="25"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="25" height="25"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="25" height="25"/></a> <a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest" width="25" height="25"/></a> <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="25" height="25"/></a> <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" width="25" height="25"/></a> <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="25" height="25"/></a> <a href="https://webpack.js.org/"><img src="https://skillicons.dev/icons?i=webpack" width="25" height="25"/></a> |
+| **Backend & API** | <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="25" height="25"/></a> <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="25" height="25"/></a> <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="25" height="25"/></a> <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" width="25" height="25"/></a> <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="25" height="25"/></a> <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="25" height="25"/></a> |
+| **Mobile** | <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" width="25" height="25"/></a> <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" width="25" height="25"/></a> |
+| **Data** | <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="25" height="25"/></a> <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="25" height="25"/></a> <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" width="25" height="25"/></a> |
+| **DevOps** | <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="25" height="25"/></a> <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="25" height="25"/></a> <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" width="25" height="25"/></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="25" height="25"/></a> <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" width="25" height="25"/></a> <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="25" height="25"/></a> |
+| **Others** | <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="25" height="25"/></a> <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" width="25" height="25"/></a> <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="25" height="25"/></a> <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="25" height="25"/></a> |
 
 ---
 
