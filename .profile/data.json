@@ -1,0 +1,595 @@
+{
+ "key": "60406638",
+ "stars": 30,
+ "contributions": 1164,
+ "repos": 41,
+ "followers": 3,
+ "languages": [
+  [
+   "Go",
+   936652
+  ],
+  [
+   "TypeScript",
+   730387
+  ],
+  [
+   "Rust",
+   283271
+  ],
+  [
+   "HTML",
+   179310
+  ],
+  [
+   "CSS",
+   137341
+  ],
+  [
+   "Python",
+   135886
+  ],
+  [
+   "JavaScript",
+   108796
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 4,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 11,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 16,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 24,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 17,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 34,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 24,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 16,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 57,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 9,
+    "day": 1,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 3,
+  "longest": 13
+ },
+ "pins": [
+  {
+   "name": "contractor",
+   "url": "https://github.com/smtdfc/contractor",
+   "text": "Type-Safe IDL & Code Generation Toolchain",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
+   "topics": [
+    "contract",
+    "go",
+    "typesafe",
+    "typescript"
+   ]
+  },
+  {
+   "name": "dix",
+   "url": "https://github.com/smtdfc/dix",
+   "text": "DI helper for Go",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
+   "topics": [
+    "codegen",
+    "dependency-injection",
+    "di",
+    "generator",
+    "go",
+    "typesafe"
+   ]
+  },
+  {
+   "name": "nagare",
+   "url": "https://github.com/smtdfc/nagare",
+   "text": "A lightweight, local AI desktop assistant that lives on your machine.",
+   "fork": false,
+   "stars": 2,
+   "language": "Go",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "rumious",
+   "url": "https://github.com/smtdfc/rumious",
+   "text": "The Modern Web Framework CSR First",
+   "fork": false,
+   "stars": 3,
+   "language": "Rust",
+   "topics": [
+    "framework",
+    "javascript",
+    "jsx",
+    "rumious",
+    "smtdfc",
+    "js",
+    "no-vdom",
+    "typescript"
+   ]
+  },
+  {
+   "name": "nagare",
+   "url": "https://github.com/smtdfc/nagare",
+   "text": "A lightweight, local AI desktop assistant that lives on your machine.",
+   "fork": false,
+   "stars": 2,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "crusty",
+   "url": "https://github.com/smtdfc/crusty",
+   "text": "Crusty is an AI Agent built with Rust that integrates the AI proxy.",
+   "fork": false,
+   "stars": 2,
+   "language": "Rust",
+   "topics": [
+    "agent",
+    "ai",
+    "llm",
+    "rust",
+    "ai-agent",
+    "rust-lang"
+   ]
+  },
+  {
+   "name": "os",
+   "url": "https://github.com/smtdfc/os",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "trading-bot",
+   "url": "https://github.com/smtdfc/trading-bot",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "dix-docs",
+   "url": "https://github.com/smtdfc/dix-docs",
+   "text": "Dix document page",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "vscodium",
+   "url": "https://github.com/smtdfc/vscodium",
+   "text": "binary releases of VS Code without MS branding/telemetry/licensing",
+   "fork": true,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "vscode",
+   "url": "https://github.com/smtdfc/vscode",
+   "text": "Visual Studio Code",
+   "fork": true,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "go-multierror",
+   "url": "https://github.com/smtdfc/go-multierror",
+   "text": "A Go (golang) package for representing a list of errors as a single error.",
+   "fork": true,
+   "stars": 1,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "zeno-agent",
+   "url": "https://github.com/smtdfc/zeno-agent",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "tracerr",
+   "url": "https://github.com/smtdfc/tracerr",
+   "text": "Golang errors with stack trace and source fragments.",
+   "fork": true,
+   "stars": 1,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "open-exam",
+   "url": "https://github.com/smtdfc/open-exam",
+   "text": "Vibe code",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "contractor",
+   "url": "https://github.com/smtdfc/contractor",
+   "text": "Type-Safe IDL & Code Generation Toolchain",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
+   "topics": [
+    "contract",
+    "go",
+    "typesafe",
+    "typescript"
+   ]
+  },
+  {
+   "name": "dix",
+   "url": "https://github.com/smtdfc/dix",
+   "text": "DI helper for Go",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
+   "topics": [
+    "codegen",
+    "dependency-injection",
+    "di",
+    "generator",
+    "go",
+    "typesafe"
+   ]
+  },
+  {
+   "name": "wiston",
+   "url": "https://github.com/smtdfc/wiston",
+   "text": "Wiston is a lightweight, extensible backend framework for Go",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "rumious-doc",
+   "url": "https://github.com/smtdfc/rumious-doc",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "testious-doc",
+   "url": "https://github.com/smtdfc/testious-doc",
+   "text": "Official docs page of the Testious framework",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "is-a-dev",
+   "url": "https://github.com/smtdfc/is-a-dev",
+   "text": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+   "fork": true,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "luminate-ui",
+   "url": "https://github.com/smtdfc/luminate-ui",
+   "text": "Friendly UI Framework",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "OpenCut",
+   "url": "https://github.com/smtdfc/OpenCut",
+   "text": "The open-source CapCut alternative",
+   "fork": true,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "safety",
+   "url": "https://github.com/smtdfc/safety",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "smtdfc",
+   "url": "https://github.com/smtdfc/smtdfc",
+   "text": "About me ???",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "testious",
+   "url": "https://github.com/smtdfc/testious",
+   "text": "Simple testing framework",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "photon",
+   "url": "https://github.com/smtdfc/photon",
+   "text": "Photon is a lightweight, extensible backend framework for Go, designed with an adapter-based architecture.",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
+   "topics": [
+    "backend",
+    "framework",
+    "golang",
+    "web"
+   ]
+  },
+  {
+   "name": "artius",
+   "url": "https://github.com/smtdfc/artius",
+   "text": "A lightweight and extensible wrapper that unifies multiple LLM providers into a single, consistent API.",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": [
+    "ai",
+    "javascript",
+    "llm",
+    "nodejs",
+    "typescript",
+    "wrapper"
+   ]
+  },
+  {
+   "name": "crazy-captcha",
+   "url": "https://github.com/smtdfc/crazy-captcha",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "start-page",
+   "url": "https://github.com/smtdfc/start-page",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "joke_for_you",
+   "url": "https://github.com/smtdfc/joke_for_you",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "smtdfc.github.io",
+   "url": "https://github.com/smtdfc/smtdfc.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "TurtleUI",
+   "url": "https://github.com/smtdfc/TurtleUI",
+   "text": "Module of pre-designed components for Turtle Library",
+   "fork": false,
+   "stars": 1,
+   "language": "CSS",
+   "topics": [
+    "framework",
+    "module",
+    "turtle-js",
+    "ui",
+    "ui-components",
+    "ui-design",
+    "ui-development"
+   ]
+  },
+  {
+   "name": "Turtle",
+   "url": "https://github.com/smtdfc/Turtle",
+   "text": "A simple library for building user interfaces",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "component",
+    "library",
+    "turtle-js",
+    "ui"
+   ]
+  },
+  {
+   "name": "look",
+   "url": "https://github.com/smtdfc/look",
+   "text": "An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made with ❤️ from Viet Nam 🇻🇳",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "tilingshell",
+   "url": "https://github.com/smtdfc/tilingshell",
+   "text": "Extend Gnome Shell with advanced tiling window management. Supports multiple monitors, Windows 11 Snap Assistant, Fancy Zones, customised tiling layouts and more.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "openclaw",
+   "url": "https://github.com/smtdfc/openclaw",
+   "text": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "bakeryos-plymouth-theme",
+   "url": "https://github.com/smtdfc/bakeryos-plymouth-theme",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "go-plugin",
+   "url": "https://github.com/smtdfc/go-plugin",
+   "text": "Golang plugin system over RPC.",
+   "fork": true,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "bubbletea",
+   "url": "https://github.com/smtdfc/bubbletea",
+   "text": "A powerful little TUI framework 🏗",
+   "fork": true,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "typescript-go",
+   "url": "https://github.com/smtdfc/typescript-go",
+   "text": "Staging repo for development of native port of TypeScript",
+   "fork": true,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "mcp-rust-sdk",
+   "url": "https://github.com/smtdfc/mcp-rust-sdk",
+   "text": "The official Rust SDK for the Model Context Protocol",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "turbovec",
+   "url": "https://github.com/smtdfc/turbovec",
+   "text": "A vector index built on TurboQuant, written in Rust with Python bindings",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "MasterVocab",
+   "url": "https://github.com/smtdfc/MasterVocab",
+   "text": "Vocabulary learning app built with Next.js.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ]
+}
