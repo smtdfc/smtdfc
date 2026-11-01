@@ -10,7 +10,7 @@
 
 <a href="https://github.com/smtdfc/nagare"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nagare-dark.svg"><img src="assets/project-nagare-light.svg" width="49%" alt="nagare"></picture></a>&nbsp;<a href="https://github.com/smtdfc/rumious"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-rumious-dark.svg"><img src="assets/project-rumious-light.svg" width="49%" alt="rumious"></picture></a>
 
-<a href="https://github.com/smtdfc/crusty"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-crusty-dark.svg"><img src="assets/project-crusty-light.svg" width="49%" alt="crusty"></picture></a>
+<a href="https://github.com/smtdfc/crusty"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-crusty-dark.svg"><img src="assets/project-crusty-light.svg" width="49%" alt="crusty"></picture></a>&nbsp;<a href="https://github.com/smtdfc/dix"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dix-dark.svg"><img src="assets/project-dix-light.svg" width="49%" alt="dix"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 

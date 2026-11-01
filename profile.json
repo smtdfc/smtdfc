@@ -100,7 +100,8 @@
     "repos": [
       "nagare",
       "rumious",
-      "crusty"
+      "crusty",
+      "dix"
     ],
     "overrides": {},
     "empty": "",
