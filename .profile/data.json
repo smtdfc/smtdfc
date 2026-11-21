@@ -1,6 +1,6 @@
 {
- "key": "97a9c54",
- "stars": 30,
+ "key": "b70e3798",
+ "stars": 31,
  "contributions": 1439,
  "repos": 42,
  "followers": 5,
@@ -243,6 +243,15 @@
    "fork": false,
    "stars": 2,
    "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "nagare-v2",
+   "url": "https://github.com/smtdfc/nagare-v2",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
    "topics": []
   },
   {
@@ -524,15 +533,6 @@
     "turtle-js",
     "ui"
    ]
-  },
-  {
-   "name": "nagare-v2",
-   "url": "https://github.com/smtdfc/nagare-v2",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Go",
-   "topics": []
   },
   {
    "name": "look",
