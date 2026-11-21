@@ -1,13 +1,13 @@
 {
- "key": "cbe03d1e",
+ "key": "97a9c54",
  "stars": 30,
- "contributions": 1438,
- "repos": 41,
+ "contributions": 1439,
+ "repos": 42,
  "followers": 5,
  "languages": [
   [
    "Go",
-   1204032
+   1246788
   ],
   [
    "TypeScript",
@@ -136,11 +136,15 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 2,
     "day": 20,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 21,
+    "today": true
+   }
   ]
  ],
  "streak": {
@@ -520,6 +524,15 @@
     "turtle-js",
     "ui"
    ]
+  },
+  {
+   "name": "nagare-v2",
+   "url": "https://github.com/smtdfc/nagare-v2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
   },
   {
    "name": "look",
