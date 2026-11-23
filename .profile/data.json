@@ -1,5 +1,5 @@
 {
- "key": "1d2023cd",
+ "key": "95b54c2c",
  "stars": 31,
  "contributions": 1439,
  "repos": 42,
@@ -113,9 +113,13 @@
    {
     "c": 0,
     "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
     "today": true
    },
-   null,
    null,
    null,
    null,
